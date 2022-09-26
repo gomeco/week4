@@ -1,0 +1,4 @@
+kaggle==1.5.12
+streamlit==1.13.0
+pandas @ file:///C:/ci/pandas_1650373458095/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1649782970434/work
