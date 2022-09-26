@@ -1,0 +1,2 @@
+kaggle==1.5.12
+streamlit==1.13.0
