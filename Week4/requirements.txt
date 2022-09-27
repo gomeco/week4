@@ -2,3 +2,4 @@ kaggle==1.5.12
 streamlit==1.13.0
 IPython==8.2.0
 pandas==1.4.2
+!kaggle datasets download -d ruchi798/data-science-job-salaries -f ds_salaries.csv
